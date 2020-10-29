@@ -44,6 +44,6 @@ switch (process.argv[2]) {
         } 
     break;
     default:
-        console.log('Hasta el momento solo puedo listar tareas a través del comando listarTareas');
+        console.log('Hasta el momento solo puedo listar, crear o eliminar tareas a través del comando listarTareas');
     break;
 }
