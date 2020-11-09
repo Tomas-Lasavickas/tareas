@@ -1,1 +1,14 @@
-[{"titulo":"Repasar JS","estado":"terminada"},{"titulo":"Armar aplicacion de Tareas","estado":"en progreso"},{"titulo":"Hacer budín de limón","estado":"pendiente"},{"titulo":"Repasar para la clase","estado":"pendiente"}]
+[
+  {
+    "titulo": "Repasar JS",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Armar aplicacion de Tareas",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Repasar para la clase",
+    "estado": "pendiente"
+  }
+]
